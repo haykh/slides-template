@@ -1,0 +1,23 @@
+{
+  "name": "entity_structure",
+  "version": "1.0.0",
+  "description": "template for reveal-md based presentation",
+  "main": "reveal-mermaid.js",
+  "scripts": {
+    "serve": "reveal-md slides/slides.md -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haykh/slides-template.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haykh/slides-template/issues"
+  },
+  "homepage": "https://github.com/haykh/slides-template#readme",
+  "dependencies": {
+    "reveal-md": "^5.2.0"
+  }
+}
