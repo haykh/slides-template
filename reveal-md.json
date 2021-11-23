@@ -1,0 +1,6 @@
+{
+  "scripts": [
+    "https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js",
+    "reveal-mermaid.js"
+  ]
+}
